@@ -1,0 +1,11 @@
+*To open the original project 'Pong_Game.aia' in App Inventor:
+
+1- Login to your App Inventor 2 account
+2- Go to Projects > Import project (.aia) from my computer...
+3- select 'DrawingApp.aia' file
+
+*To install the apk Build 'Pong_Game.apk' in Android devices:
+
+1- Send the file 'DrawingApp.apk' to your E-mail
+2- open 'DrawingApp.apk' in your Android device's E-mail app
+3- open the installed App 'DrawingApp'
